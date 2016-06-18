@@ -1,0 +1,23 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohmyjersh/todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohmyjersh/todo/issues"
+  },
+  "homepage": "https://github.com/ohmyjersh/todo#readme",
+  "dependencies": {
+    "@types/react": "^0.14.21-alpha",
+    "react": "^15.1.0"
+  }
+}
